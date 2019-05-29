@@ -1,0 +1,88 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9219ae7e1ed707a4f91dbf9bd44b3320, type: 3}
+  m_Name: Settings
+  m_EditorClassIdentifier: 
+  GameSettings:
+    PlayerMoney: 0
+    CurrentLevelIndex: 0
+    Levels:
+    - Name: Garbage Copper
+      Money: 5
+      Health: 10
+      CurrentHealth: 10
+      Armor: 0
+      Sprite: {fileID: 21300000, guid: 40bd036b0e7c12f48a49d4c43ed9b1c6, type: 3}
+    - Name: Usable Copper
+      Money: 7
+      Health: 16
+      CurrentHealth: 0
+      Armor: 0
+      Sprite: {fileID: 21300000, guid: 40bd036b0e7c12f48a49d4c43ed9b1c6, type: 3}
+    - Name: Normal Copper
+      Money: 10
+      Health: 15
+      CurrentHealth: 0
+      Armor: 2
+      Sprite: {fileID: 21300000, guid: 40bd036b0e7c12f48a49d4c43ed9b1c6, type: 3}
+    - Name: Shiny Copper
+      Money: 30
+      Health: 20
+      CurrentHealth: 0
+      Armor: 3
+      Sprite: {fileID: 21300000, guid: 40bd036b0e7c12f48a49d4c43ed9b1c6, type: 3}
+    - Name: Iron
+      Money: 75
+      Health: 200
+      CurrentHealth: 0
+      Armor: 10
+      Sprite: {fileID: 21300000, guid: a0aab6d07985fb448a9ac87ecf05208d, type: 3}
+    - Name: Silver
+      Money: 500
+      Health: 3000
+      CurrentHealth: 0
+      Armor: 30
+      Sprite: {fileID: 21300000, guid: fd63b3baafd9e3d43824596f441bab01, type: 3}
+    - Name: Gold
+      Money: 2000
+      Health: 25000
+      CurrentHealth: 0
+      Armor: 500
+      Sprite: {fileID: 21300000, guid: eb2d90fcda468d84e8720ddcef47085f, type: 3}
+  ShopSettings:
+    Upgrades:
+    - Name: Clicking power
+      Value: 1
+      IncrementalValue: 1
+      Multiplier: -1
+      Price: 10
+      PriceMultiplier: 1.2
+    - Name: Money Multiplier
+      Value: 1
+      IncrementalValue: -1
+      Multiplier: 2
+      Price: 20
+      PriceMultiplier: 1.95
+    - Name: Click power Multiplayer
+      Value: 1
+      IncrementalValue: -1
+      Multiplier: 2
+      Price: 40
+      PriceMultiplier: 1.98
+  SoundSettings:
+    MainMenuMusic: {fileID: 8300000, guid: 5b2548039ecf5dc438b63cc61c8323e9, type: 3}
+    GameMusic: {fileID: 8300000, guid: 5481d34ae1cab934ba15f59452ab490b, type: 3}
+    ClickSFX: {fileID: 8300000, guid: 85c7efba3f346da4cacf94aa5fe2db12, type: 3}
+  AchievementSettings:
+    UpgradeCount: 7
+    ClickCount: 1
+    DestroyedBlockCount: 0

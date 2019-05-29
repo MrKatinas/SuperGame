@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ee7a48eed17b3514486a0879b6a68702, type: 3}
+  m_Name: Achievement Data Base
+  m_EditorClassIdentifier: 
+  achievements:
+    array:
+    - id: GoToMines
+      title: Going deep!
+      description: Leave your fear of darkness behind.
+    - id: Buy1
+      title: Grocery shoping
+      description: Spend your hard earned money in the shop
+    - id: Buy10
+      title: Shoping spree
+      description: Buy 10 upgrades
+    - id: Buy100
+      title: Shopaholic
+      description: Buy 100 upgrades
+    - id: Break1
+      title: Hard work pays off
+      description: Break your first block
+    - id: Break10
+      title: Getting serious
+      description: Break 10 blocks
+    - id: Break50
+      title: Mad man!
+      description: Break 50 blocks
+    - id: Break100
+      title: Beast mode!
+      description: Break 100 blocks
+    - id: Click20
+      title: Baby tapper
+      description: Click 20 times
+    - id: Click300
+      title: Student of the tapping arts
+      description: Click 300 times
+    - id: Click5000
+      title: Dedicated worker
+      description: Click 5000 times
+    - id: Click1000000
+      title: A true gamer
+      description: Click 1000000 times

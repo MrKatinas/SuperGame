@@ -1,0 +1,1 @@
+public enum Achievements {GoToMines,Buy1,Buy10,Buy100,Break1,Break10,Break50,Break100,Click20,Click300,Click5000,Click1000000,}
