@@ -38,12 +38,16 @@ My friend and I created a simple clicker, which has special features: we did not
     </head>
     <body>
         <div class="gallery">
+            <a href="Images/MainMeniu.png"><img src="Images/MainMeniu.png"></a>
+            <a href="Images/About.png"><img src="Images/About.png"></a>
+            <a href="Images/Settings.png"><img src="Images/Settings.png"></a>
+        </div>
+    </body>
 </html>
 
 
 ## **Images Of The Game**
 #### *Main Menu Scene*
-
 [<img src="Images/MainMeniu.png" width="300">](Images/MainMeniu.png)
 [<img src="Images/About.png" width="300">](Images/About.png)
 [<img src="Images/Settings.png" width="300">](Images/Settings.png)
