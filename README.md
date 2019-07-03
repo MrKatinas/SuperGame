@@ -18,45 +18,17 @@ My friend and I created a simple clicker, which has special features: we did not
 
 ---
 
-<html>
-    <style>
-    .gallery{
-        margin: 10px, 50px;
-    }
-    .gallery img {
-        transition: 1s;
-        padding: 15px;
-        width: 250px;
-    }
-    .gallery img:hover {
-        filter:grayscale(50%)
-    }
-    </style>
-    <head>
-        <title> Image Gallery </title>
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    </head>
-    <body>
-        <div class="gallery">
-            <a href="Images/MainMeniu.png"><img src="Images/MainMeniu.png"></a>
-            <a href="Images/About.png"><img src="Images/About.png"></a>
-            <a href="Images/Settings.png"><img src="Images/Settings.png"></a>
-        </div>
-    </body>
-</html>
-
-
 ## **Images Of The Game**
 #### *Main Menu Scene*
-[<img src="Images/MainMeniu.png" width="300">](Images/MainMeniu.png)
-[<img src="Images/About.png" width="300">](Images/About.png)
-[<img src="Images/Settings.png" width="300">](Images/Settings.png)
+[<img src="Images/MainMeniu.png" width="250">](Images/MainMeniu.png)
+[<img src="Images/About.png" width="250">](Images/About.png)
+[<img src="Images/Settings.png" width="250">](Images/Settings.png)
 
 #### *Game Scene*
-[<img src="Images/Game.png" width="300">](Images/Game.png)
-[<img src="Images/Mine.gif" width="300">](Images/Mine.gif)
-[<img src="Images/Achievements.png" width="300">](Images/Achievements.png)
-[<img src="Images/Shop.png" width="300">](Images/Shop.png)
+[<img src="Images/Game.png" width="250">](Images/Game.png)
+[<img src="Images/Mine.gif" width="250">](Images/Mine.gif)
+[<img src="Images/Achievements.png" width="250">](Images/Achievements.png)
+[<img src="Images/Shop.png" width="250">](Images/Shop.png)
 
 ---
 
@@ -102,6 +74,6 @@ If you can't fine the apk file try searching or allowing hidden files.
 - [Monika Pociūtė](https://www.linkedin.com/in/monika-pociute/)
 - [Mindaugas Butkus](https://linkedin.com/in/mindaugas-butkus)
 
-[Back To The Top](#Logo)
+[Back To The Top](#Table-Of-Contents)
 
 ---
