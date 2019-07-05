@@ -27,7 +27,6 @@ My friend and I created a simple clicker, which has special features: we did not
 #### *Game Scene*
 [<img src="Images/Game.png" width="250">](Images/Game.png)
 [<img src="Images/Mine.gif" width="250">](Images/Mine.gif)
-[<img src="Images/Achievements.png" width="250">](Images/Achievements.png)
 [<img src="Images/Shop.png" width="250">](Images/Shop.png)
 
 ---
